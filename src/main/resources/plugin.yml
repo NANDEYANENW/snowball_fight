@@ -1,0 +1,5 @@
+name: snowball_fight
+version: '${project.version}'
+main: nandeyanen.click.snowball_fight.Snowball_fight
+api-version: '1.20'
+authors: [kyuuriGames]
